@@ -1,0 +1,29 @@
+p#para1 {
+	color: #faff75;
+}
+p#para_0 {
+	color: red;
+	border: 1px solid blue;
+	text-align: center;
+	font-size: 40px;
+}
+
+a {
+	color: red;
+}
+div{
+	color: #ffaafa;
+	background-color: blue;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+body{
+	background-image: url(C:/Users/harsh/Pictures/vlcsnap-2014-11-11-10h37m02s220.png);
+}
+.demo{
+	background-color: #ffaafa
+}
+h1{
+	font-size: 80px
+}
